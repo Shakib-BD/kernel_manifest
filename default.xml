@@ -10,7 +10,7 @@
   <project path="build" name="pa-gr/android_kernel_build" remote="github" revision="android12-5.10-marble">
     <linkfile dest="build.sh" src="build-ak3.sh"/>
   </project>
-  <project path="AnyKernel3" name="ghostrider-reborn/AnyKernel3" remote="shakib" revision="master" />
+  <project path="AnyKernel3" name="AnyKernel3" remote="shakib" revision="master" />
   <project path="hikey-modules" name="kernel/hikey-modules" revision="android12-5.10" />
   <project path="kernel" name="shakib/kernel_android_gki" remote="shakib" revision="android_12-5.10" />
   <project path="kernel/tests" name="kernel/tests" />
