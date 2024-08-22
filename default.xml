@@ -12,7 +12,7 @@
   </project>
   <project path="AnyKernel3" name="AnyKernel3" remote="shakib" revision="master" />
   <project path="hikey-modules" name="kernel/hikey-modules" revision="android12-5.10" />
-  <project path="kernel" name="shakib/kernel_android_gki" remote="shakib" revision="android_12-5.10" />
+  <project path="kernel" name="kernel_android_gki" remote="shakib" revision="android_12-5.10" />
   <project path="kernel/tests" name="kernel/tests" />
   <project path="kernel/configs" name="kernel/configs" />
   <project path="common-modules/virtual-device" name="kernel/common-modules/virtual-device" revision="android12-5.10" />
